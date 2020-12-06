@@ -1,0 +1,16 @@
+Students ids:
+1. 205709033
+2. 320748494
+
+
+Students names:
+1. Daniel Abramov
+2. Alexey Belogurov
+
+
+Operating system:
+Windows 10 - 64Bit
+
+Development enviroment:
+Visual Studio 17
+

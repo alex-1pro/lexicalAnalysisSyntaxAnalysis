@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.902
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "matalaCompilationLex", "matalaCompilationLex\matalaCompilationLex.vcxproj", "{881DAAFF-6D72-4074-AC03-E1A4ED56A035}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{881DAAFF-6D72-4074-AC03-E1A4ED56A035}.Debug|x64.ActiveCfg = Debug|x64
+		{881DAAFF-6D72-4074-AC03-E1A4ED56A035}.Debug|x64.Build.0 = Debug|x64
+		{881DAAFF-6D72-4074-AC03-E1A4ED56A035}.Debug|x86.ActiveCfg = Debug|Win32
+		{881DAAFF-6D72-4074-AC03-E1A4ED56A035}.Debug|x86.Build.0 = Debug|Win32
+		{881DAAFF-6D72-4074-AC03-E1A4ED56A035}.Release|x64.ActiveCfg = Release|x64
+		{881DAAFF-6D72-4074-AC03-E1A4ED56A035}.Release|x64.Build.0 = Release|x64
+		{881DAAFF-6D72-4074-AC03-E1A4ED56A035}.Release|x86.ActiveCfg = Release|Win32
+		{881DAAFF-6D72-4074-AC03-E1A4ED56A035}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {15C6AA64-243B-49E9-BE9B-C28EFC769FC5}
+	EndGlobalSection
+EndGlobal
